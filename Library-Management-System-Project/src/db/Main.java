@@ -24,7 +24,7 @@ public class Main {
 //        FF.setLocationRelativeTo(null);
 //        FF.setVisible(true);
 
-        // github modif
+        // github modifications
     }
 
 }
